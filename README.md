@@ -92,5 +92,5 @@ Frontend code and environment configuration files are excluded to protect privat
 ## 👩‍💻 Author
 
 Developed by **Miss Tracy B**  
-Aspiring Web3 / Blockchain Developer
+Web3 / Blockchain Developer
 
